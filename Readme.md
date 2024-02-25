@@ -20,8 +20,8 @@ O projeto foi desenvolvido para estudos de Jetpck Compose
 ## :camera: Screenshots
 
 <div>
-<img src="/img1.png" alt="imagem do aplicativo" width=200/>
-<img src="/img2.png" alt="imagem do aplicativo" width=200/>
+<img src="/img1.png" alt="imagem do aplicativo" width=400/>
+<img src="/img2.png" alt="imagem do aplicativo" width=400/>
 </div>
 
 ## :handshake: Colaboradores
