@@ -2,7 +2,7 @@
 
 ## :memo: Descrição
 
-Um aplicativo de calcular IMC 
+Um aplicativo de calcular IMC
 
 ## :bulb: Ideia do projeto
 
@@ -10,18 +10,19 @@ O projeto foi desenvolvido para estudos de Jetpck Compose
 
 ## :books: Funcionalidades
 
-- Calcular IMC do usuário 
+- Calcular IMC do usuário
 
 ## :wrench: Tecnologias utilizadas
 
 - <b>Kotlin</b>
 - <b>Jetpack Compose</b>
 
-
 ## :camera: Screenshots
 
-<img src="/img1.png" alt="imagem do aplicativo"/>
-<img src="/img2.png" alt="imagem do aplicativo"/>
+<div>
+<img src="/img1.png" alt="imagem do aplicativo" width=60/>
+<img src="/img2.png" alt="imagem do aplicativo" width=60/>
+</div>
 
 ## :handshake: Colaboradores
 
